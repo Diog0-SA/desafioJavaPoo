@@ -11,7 +11,7 @@ O intuito dos desafios é o aprendizado e experiência. O tempo de desenvolvimen
 ## Autor
 - Diogo Silva Almeida
 
-##Os desafios foram: 
+## Os desafios foram: 
 - Calculadora Simples;
 - Verificar Número Primo;
 - Contador de Palavras;
